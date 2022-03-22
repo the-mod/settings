@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# for macOS
+# place somewhere which is on PATH e.g. /usr/local/bin
+
+open -na "IntelliJ IDEA CE.app" --args "$@"
